@@ -1,6 +1,7 @@
 Roger is sponsoring an elite programming contest at his school. In order to ensure the quality of the contestants, he has decided to require a qualifying score to enter. You are to write a program that will determine which teams have qualified to enter his contest.
 He has decided that to qualify for his contest, the programming team must have previously competed at another recognized contest. Since scores at different contests are not uniform, he has decided that some contests should require a higher minimum score than others. He has decided on the following
 
+
 | Contest                        | Abbreviation  | Qualifiying Score  |
 | ------------------------------ |:-------------:| :-----------------:|
 | Southeast Texas Champtionships | STC           | 560                |
@@ -8,6 +9,7 @@ He has decided that to qualify for his contest, the programming team must have p
 | North Texas Champtionships     | NTC           | 420                |
 | Central Texas Champtionships   | CTC           | 370                |
 | Lower Valley Champtionships    | LVC           | 470                |
+
 
 
 You are to write a program that will print the names of the teams qualified to enter his contest.
