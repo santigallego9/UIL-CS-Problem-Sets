@@ -2,7 +2,7 @@ Roger is sponsoring an elite programming contest at his school. In order to ensu
 He has decided that to qualify for his contest, the programming team must have previously competed at another recognized contest. Since scores at different contests are not uniform, he has decided that some contests should require a higher minimum score than others. He has decided on the following
 
 | Contest                        | Abbreviation  | Qualifiying Score  |
-| ------------------------------ |:-------------:| -------------------|
+| ------------------------------ |:-------------:| :-----------------:|
 | Southeast Texas Champtionships | STC           | 560                |
 | West Texas Champtionships      | WTC           | 340                |
 | North Texas Champtionships     | NTC           | 420                |
