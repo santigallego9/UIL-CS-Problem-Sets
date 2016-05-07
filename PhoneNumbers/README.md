@@ -10,7 +10,7 @@ In the order they appear in the original list, you will print the names of the t
 
 Example Input File
 8
-PASCAL_HS 455 WTC 
+PASCAL_HS 455 WTC  
 TURING_HS 365 CTC 
 WIRTH_HS 570 STC 
 WASHINGTON_HS 500 LVC 
