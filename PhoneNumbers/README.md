@@ -9,6 +9,7 @@ Output
 In the order they appear in the original list, you will print the names of the teams qualified for the elite programming contest.
 
 Example Input File
+
 8
 PASCAL_HS 455 WTC  
 TURING_HS 365 CTC 
