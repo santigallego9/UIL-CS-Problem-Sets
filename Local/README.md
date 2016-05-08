@@ -16,7 +16,7 @@ For each year input, you will print : y b w, where y is the four digit year, b i
 2007 54 65 75 74 72 53 52 42 44 41 37 36 39 28 22 25 27 26 45 45 56 57 58 59 63 52 54 63 63 42 12
 ```
 
-<strong>Note:</strong> All three of the input lines in the printed version above stretch across two lines, but are all actually only one line each in the local.dat input file. Alternate input lines are bolded for ease of reading.
+<strong>Note:</strong> If the input lines in the printed version above stretch across two lines, they are all actually only one line each in the local.dat input file.
 
 ####Example Output to Screen
 ```
